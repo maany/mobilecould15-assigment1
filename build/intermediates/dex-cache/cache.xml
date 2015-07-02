@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\OPSKMC\AndroidStudioProjects\assignment1\app\build\intermediates\pre-dexed\debug\gson-2.2.4-ea93d745ef1771a2bc07f63bff14234baa98b665.jar"
+        jar="C:\Users\OPSKMC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="C:\Users\OPSKMC\AndroidStudioProjects\assignment1\app\build\intermediates\pre-dexed\debug\retrofit-1.7.0-6e36d3ee5fd6582bfa9784cbdd073f2105b1847f.jar"
+        jar="C:\Users\OPSKMC\AndroidStudioProjects\assignment1\app\libs\retrofit-1.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cc6807da6fdf91bea1b6a4a90c3818dac27d335f"/>
+
+</pre-dex-items>
